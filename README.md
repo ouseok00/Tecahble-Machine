@@ -4,4 +4,4 @@
 
 Techable-Machine을 이용해서 human과 cup을 구분하는 가상머신을 만들어봤습니다
 
-![Uploading image.png…]()
+!(TM)[Uploading image.png…]()
